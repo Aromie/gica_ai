@@ -1,3 +1,5 @@
+!pip install konlpy # colab에서 실행해야 코드가 정상 작동됨 
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt # 시각화
